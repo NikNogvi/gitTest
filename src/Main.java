@@ -9,19 +9,19 @@ public class Main {
         System.out.println(min(b, a));
     }
 
-    private static int sum(int a, int b) {
+    private static int sum (int a, int b) {
         return a + b;
     }
 
-    private static int minus(int a, int b) {
+    private static int minus (int a, int b) {
         return a - b;
     }
 
-    private static int multiplay(int a, int b) {
+    private static int multiplay (int a, int b) {
         return a * b;
     }
 
-    private static int devide(int a, int b) {
+    private static int devide (int a, int b) {
         return a / b;
     }
 
